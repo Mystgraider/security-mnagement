@@ -1,0 +1,1 @@
+export default function Login(){return <main className="grid min-h-screen place-items-center"><section className="w-full max-w-md rounded-xl bg-white p-8 shadow"><h1 className="text-2xl font-bold">HotelSecOps sign in</h1><p className="mt-2 text-slate-600">Authentication is provided by Supabase Auth. Configure environment variables before enabling sign-in.</p></section></main>}
